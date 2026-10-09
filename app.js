@@ -1,2 +1,0 @@
-SECRET_KEY="sk_live_123456yvun3q58ffv532v"
-DB_PASSWORD="dbuser_2026"
